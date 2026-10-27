@@ -1,0 +1,19 @@
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Training and image datasets (kept locally; not versioned)
+data/
+data_pre/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
